@@ -1,0 +1,13 @@
+{
+    "name": "pwa-movie-library",
+    "version": "1.0.0",
+    "description": "PWA application @FER",
+    "main": "server.js",
+    "author": "lkranjcevic",
+    "license": "FER",
+    "dependencies": {
+        "core-js": "^3.6.5",
+        "express": "^4.17.2",
+        "serve-static": "^1.14.2"
+    }
+}
