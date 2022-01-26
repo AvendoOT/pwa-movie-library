@@ -5,6 +5,9 @@
     "main": "server.js",
     "author": "lkranjcevic",
     "license": "FER",
+    "scripts": {
+        "build": "npm run-script build"
+    },
     "dependencies": {
         "core-js": "^3.6.5",
         "express": "^4.17.2",
